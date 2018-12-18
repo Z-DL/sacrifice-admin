@@ -1,0 +1,13 @@
+.flex-box{
+  display: flex;
+}
+.flex-item{
+  flex: 1;
+}
+.seller-info{
+  .el-input__inner{
+    border: none;
+    border-bottom: 1px solid #E0E0E0;
+    border-radius: 0;
+  }
+}
